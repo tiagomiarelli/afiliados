@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Site de Exemplo</title>
-    <link href="https://sitedeexemplo.com/feed.xml" rel="self" />
-    <link href="https://sitedeexemplo.com" />
+    <link href="https://tiagomiarelli.github.io/sitedeexemplo/feed.xml" rel="self" />
+    <link href="https://tiagomiarelli.github.io/sitedeexemplo" />
     <updated>2022-04-29T00:22:41-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
-    <id>https://sitedeexemplo.com</id>
+    <id>https://tiagomiarelli.github.io/sitedeexemplo</id>
 
     <entry>
         <title>POST 10</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-10/"/>
-        <id>https://sitedeexemplo.com/post-10/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-10/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-10/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:22:41-03:00</updated>
@@ -27,8 +27,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-9/"/>
-        <id>https://sitedeexemplo.com/post-9/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-9/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-9/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:22:33-03:00</updated>
@@ -40,8 +40,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-8/"/>
-        <id>https://sitedeexemplo.com/post-8/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-8/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-8/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:22:25-03:00</updated>
@@ -53,8 +53,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-7/"/>
-        <id>https://sitedeexemplo.com/post-7/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-7/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-7/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:22:17-03:00</updated>
@@ -66,8 +66,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-6/"/>
-        <id>https://sitedeexemplo.com/post-6/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-6/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-6/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:22:10-03:00</updated>
@@ -79,8 +79,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-5/"/>
-        <id>https://sitedeexemplo.com/post-5/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-5/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-5/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:21:56-03:00</updated>
@@ -92,8 +92,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-4/"/>
-        <id>https://sitedeexemplo.com/post-4/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-4/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-4/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:21:48-03:00</updated>
@@ -105,8 +105,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-3/"/>
-        <id>https://sitedeexemplo.com/post-3/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-3/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-3/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:21:39-03:00</updated>
@@ -118,8 +118,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-2/"/>
-        <id>https://sitedeexemplo.com/post-2/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-2/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-2/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:21:03-03:00</updated>
@@ -131,8 +131,8 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://sitedeexemplo.com/post-1/"/>
-        <id>https://sitedeexemplo.com/post-1/</id>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/post-1/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/post-1/</id>
             <category term="CATEGORIA 1"/>
 
         <updated>2022-04-29T00:20:50-03:00</updated>

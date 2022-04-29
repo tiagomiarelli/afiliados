@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Site de Exemplo",
     "description": "",
-    "home_page_url": "https://sitedeexemplo.com",
-    "feed_url": "https://sitedeexemplo.com/feed.json",
+    "home_page_url": "https://tiagomiarelli.github.io/sitedeexemplo",
+    "feed_url": "https://tiagomiarelli.github.io/sitedeexemplo/feed.json",
     "user_comment": "",
     "author": {
         "name": "Tiago Miarelli"
     },
     "items": [
         {
-            "id": "https://sitedeexemplo.com/post-10/",
-            "url": "https://sitedeexemplo.com/post-10/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-10/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-10/",
             "title": "POST 10",
             "author": {
                 "name": "Tiago Miarelli"
@@ -23,8 +23,8 @@
             "date_modified": "2022-04-29T00:22:41-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-9/",
-            "url": "https://sitedeexemplo.com/post-9/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-9/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-9/",
             "title": "POST 9",
             "author": {
                 "name": "Tiago Miarelli"
@@ -36,8 +36,8 @@
             "date_modified": "2022-04-29T00:22:33-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-8/",
-            "url": "https://sitedeexemplo.com/post-8/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-8/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-8/",
             "title": "POST 8",
             "author": {
                 "name": "Tiago Miarelli"
@@ -49,8 +49,8 @@
             "date_modified": "2022-04-29T00:22:25-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-7/",
-            "url": "https://sitedeexemplo.com/post-7/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-7/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-7/",
             "title": "POST 7",
             "author": {
                 "name": "Tiago Miarelli"
@@ -62,8 +62,8 @@
             "date_modified": "2022-04-29T00:22:17-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-6/",
-            "url": "https://sitedeexemplo.com/post-6/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-6/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-6/",
             "title": "POST 6",
             "author": {
                 "name": "Tiago Miarelli"
@@ -75,8 +75,8 @@
             "date_modified": "2022-04-29T00:22:10-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-5/",
-            "url": "https://sitedeexemplo.com/post-5/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-5/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-5/",
             "title": "POST 5",
             "author": {
                 "name": "Tiago Miarelli"
@@ -88,8 +88,8 @@
             "date_modified": "2022-04-29T00:21:56-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-4/",
-            "url": "https://sitedeexemplo.com/post-4/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-4/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-4/",
             "title": "POST 4",
             "author": {
                 "name": "Tiago Miarelli"
@@ -101,8 +101,8 @@
             "date_modified": "2022-04-29T00:21:48-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-3/",
-            "url": "https://sitedeexemplo.com/post-3/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-3/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-3/",
             "title": "POST 3",
             "author": {
                 "name": "Tiago Miarelli"
@@ -114,8 +114,8 @@
             "date_modified": "2022-04-29T00:21:39-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-2/",
-            "url": "https://sitedeexemplo.com/post-2/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-2/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-2/",
             "title": "POST 2",
             "author": {
                 "name": "Tiago Miarelli"
@@ -127,8 +127,8 @@
             "date_modified": "2022-04-29T00:21:03-03:00"
         },
         {
-            "id": "https://sitedeexemplo.com/post-1/",
-            "url": "https://sitedeexemplo.com/post-1/",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-1/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-1/",
             "title": "POST 1",
             "author": {
                 "name": "Tiago Miarelli"
