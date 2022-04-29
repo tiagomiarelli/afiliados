@@ -3,7 +3,7 @@
     <title>Site de Exemplo</title>
     <link href="https://tiagomiarelli.github.io/sitedeexemplo/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/sitedeexemplo" />
-    <updated>2022-04-29T13:27:49-03:00</updated>
+    <updated>2022-04-29T13:45:34-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
@@ -57,7 +57,7 @@
         <id>https://tiagomiarelli.github.io/sitedeexemplo/post-39/</id>
             <category term="CATEGORIA 1"/>
 
-        <updated>2022-04-29T13:27:17-03:00</updated>
+        <updated>2022-04-29T13:45:34-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
