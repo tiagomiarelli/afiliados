@@ -10,134 +10,134 @@
     },
     "items": [
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-30/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-30/",
-            "title": "POST 30",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-42/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-42/",
+            "title": "POST 42",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
-                   "CATEGORIA 1"
+                   "CATEGORIA 2"
             ],
-            "date_published": "2022-04-29T13:10:33-03:00",
-            "date_modified": "2022-04-29T13:22:15-03:00"
+            "date_published": "2022-04-29T13:27:49-03:00",
+            "date_modified": "2022-04-29T13:27:49-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-29/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-29/",
-            "title": "POST 29",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-41/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-41/",
+            "title": "POST 41",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
-                   "CATEGORIA 1"
+                   "CATEGORIA 2"
             ],
-            "date_published": "2022-04-29T13:10:23-03:00",
-            "date_modified": "2022-04-29T13:22:22-03:00"
+            "date_published": "2022-04-29T13:27:39-03:00",
+            "date_modified": "2022-04-29T13:27:39-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-28/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-28/",
-            "title": "POST 28",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-40/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-40/",
+            "title": "POST 40",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:10:10-03:00",
-            "date_modified": "2022-04-29T13:22:32-03:00"
+            "date_published": "2022-04-29T13:27:28-03:00",
+            "date_modified": "2022-04-29T13:27:28-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-27/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-27/",
-            "title": "POST 27",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-39/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-39/",
+            "title": "POST 39",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:10:00-03:00",
-            "date_modified": "2022-04-29T13:22:39-03:00"
+            "date_published": "2022-04-29T13:27:17-03:00",
+            "date_modified": "2022-04-29T13:27:17-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-26/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-26/",
-            "title": "POST 26",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-38/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-38/",
+            "title": "POST 38",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:09:51-03:00",
-            "date_modified": "2022-04-29T13:22:47-03:00"
+            "date_published": "2022-04-29T13:27:09-03:00",
+            "date_modified": "2022-04-29T13:27:09-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-25/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-25/",
-            "title": "POST 25",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-37/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-37/",
+            "title": "POST 37",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:09:41-03:00",
-            "date_modified": "2022-04-29T13:22:54-03:00"
+            "date_published": "2022-04-29T13:27:00-03:00",
+            "date_modified": "2022-04-29T13:27:00-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-24/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-24/",
-            "title": "POST 24",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-36/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-36/",
+            "title": "POST 36",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:09:30-03:00",
-            "date_modified": "2022-04-29T13:23:04-03:00"
+            "date_published": "2022-04-29T13:26:50-03:00",
+            "date_modified": "2022-04-29T13:26:50-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-23/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-23/",
-            "title": "POST 23",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-35/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-35/",
+            "title": "POST 35",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:09:20-03:00",
-            "date_modified": "2022-04-29T13:23:19-03:00"
+            "date_published": "2022-04-29T13:26:40-03:00",
+            "date_modified": "2022-04-29T13:26:40-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-22/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-22/",
-            "title": "POST 22",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-34/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-34/",
+            "title": "POST 34",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:09:10-03:00",
-            "date_modified": "2022-04-29T13:23:30-03:00"
+            "date_published": "2022-04-29T13:26:30-03:00",
+            "date_modified": "2022-04-29T13:26:30-03:00"
         },
         {
-            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-21/",
-            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-21/",
-            "title": "POST 21",
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/post-33/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/post-33/",
+            "title": "POST 33",
             "author": {
                 "name": "Tiago Miarelli"
             },
             "tags": [
                    "CATEGORIA 1"
             ],
-            "date_published": "2022-04-29T13:08:57-03:00",
-            "date_modified": "2022-04-29T13:23:38-03:00"
+            "date_published": "2022-04-29T13:26:21-03:00",
+            "date_modified": "2022-04-29T13:26:21-03:00"
         }
     ]
 }
