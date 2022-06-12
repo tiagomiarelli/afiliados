@@ -3,12 +3,32 @@
     <title>Tipos de Marketing</title>
     <link href="https://tiagomiarelli.github.io/sitedeexemplo/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/sitedeexemplo" />
-    <updated>2022-06-03T20:21:17-03:00</updated>
+    <updated>2022-06-11T21:56:01-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
     <id>https://tiagomiarelli.github.io/sitedeexemplo</id>
 
+    <entry>
+        <title>CLAUDIO BAITOLA</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.github.io/sitedeexemplo/claudio-baitola/"/>
+        <id>https://tiagomiarelli.github.io/sitedeexemplo/claudio-baitola/</id>
+
+        <updated>2022-06-11T21:56:01-03:00</updated>
+            <summary>
+                <![CDATA[
+                    AMOSTRA PARA O CLAUDIO BAITOLA
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>AMOSTRA PARA O CLAUDIO BAITOLA</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Marketing baseado em contas</title>
         <author>

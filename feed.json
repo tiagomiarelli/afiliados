@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://tiagomiarelli.github.io/sitedeexemplo/claudio-baitola/",
+            "url": "https://tiagomiarelli.github.io/sitedeexemplo/claudio-baitola/",
+            "title": "CLAUDIO BAITOLA",
+            "summary": "AMOSTRA PARA O CLAUDIO BAITOLA",
+            "content_html": "<p>AMOSTRA PARA O CLAUDIO BAITOLA</p>",
+            "author": {
+                "name": "Tiago Miarelli"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-11T21:56:01-03:00",
+            "date_modified": "2022-06-11T21:56:01-03:00"
+        },
+        {
             "id": "https://tiagomiarelli.github.io/sitedeexemplo/marketing-baseado-em-contas-2/",
             "url": "https://tiagomiarelli.github.io/sitedeexemplo/marketing-baseado-em-contas-2/",
             "title": "Marketing baseado em contas",
