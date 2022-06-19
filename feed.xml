@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tipos de Marketing</title>
-    <link href="https://tiagomiarelli.github.io/sitedeexemplo/feed.xml" rel="self" />
-    <link href="https://tiagomiarelli.github.io/sitedeexemplo" />
+    <link href="https://tiagomiarelli.github.io/afiliados/feed.xml" rel="self" />
+    <link href="https://tiagomiarelli.github.io/afiliados" />
     <updated>2022-06-03T20:21:17-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
-    <id>https://tiagomiarelli.github.io/sitedeexemplo</id>
+    <id>https://tiagomiarelli.github.io/afiliados</id>
 
     <entry>
         <title>Marketing baseado em contas</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://tiagomiarelli.github.io/sitedeexemplo/marketing-baseado-em-contas-2/"/>
-        <id>https://tiagomiarelli.github.io/sitedeexemplo/marketing-baseado-em-contas-2/</id>
+        <link href="https://tiagomiarelli.github.io/afiliados/marketing-baseado-em-contas-2/"/>
+        <id>https://tiagomiarelli.github.io/afiliados/marketing-baseado-em-contas-2/</id>
             <category term="Tipos de Marketing"/>
 
         <updated>2022-06-03T20:21:17-03:00</updated>
